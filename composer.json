@@ -8,15 +8,15 @@
         }
     ],
     "require": {
-        "php": "^7.4"
+        "php": ">=8.0"
     },
     "autoload": {
         "psr-4": {
             "WabLab\\Container\\": "src/",
-            "WabLab\\ContainerTest\\": "tests/"
+            "WabLab\\Tests\\": "tests/"
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.5"
+        "phpunit/phpunit": "^9.5"
     }
 }

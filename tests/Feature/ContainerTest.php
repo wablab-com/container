@@ -1,5 +1,5 @@
 <?php
-namespace WabLab\ContainerTest\Feature;
+namespace WabLab\Tests\Feature;
 
 use PHPUnit\Framework\TestCase;
 use WabLab\Container\Container;
